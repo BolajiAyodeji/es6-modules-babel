@@ -7,4 +7,5 @@ git clone https://github.com/BolajiAyodeji/es6-modules-babel.git
 npm install
 ```
 ```git
-npm run build```
+npm run build
+```
