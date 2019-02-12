@@ -1,7 +1,7 @@
 ### `Learning how to transpile different ES6 modules patterns with Babel` :zap:
 
 ```git
-git clone 
+git clone https://github.com/BolajiAyodeji/es6-modules-babel.git
 ```
 ```git
 npm install
