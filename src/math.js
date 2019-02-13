@@ -1,17 +1,7 @@
-module.exports = {
-  sumAll: (a, b) => {
-    return a + b;
-  },
-  subtractAll: (a, b) => {
-    return a - b;
-  },
-  multiplyAll: (a, b) => {
-    return a * b;
-  },
-  divideAll: (a, b) => {
-    return a / b;
-  },
-  findModulus: (a, b) => {
-    return a % b;
-  }
-};
+let sumAll = (a, b) => {return a + b;}
+let subtractAll = (a, b) => {return a - b;}
+let divideAll = (a, b) => {return a / b;}
+let multiplyAll = (a, b) => {return a * b;}
+let findModulus = (a, b) => {return a % b;}
+
+export default {sumAll, subtractAll, divideAll, multiplyAll, findModulus};
