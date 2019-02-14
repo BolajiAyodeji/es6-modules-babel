@@ -1,4 +1,4 @@
-### `Learning how to transpile different ES6 modules patterns with Babel` :zap:
+### `Learning how to transpile different ES6 modules with Babel and Parcel` :zap:
 
 ```git
 git clone https://github.com/BolajiAyodeji/es6-modules-babel.git
